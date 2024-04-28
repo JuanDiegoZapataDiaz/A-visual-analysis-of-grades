@@ -11,3 +11,7 @@ pc1.xlsx: Excel file with the scores of the examn 1, it contains 4 columns: id, 
 Examn_analysis.ipynb: Python notebook with the visual analysis of scores written as a report that is thought to be exporter without code.
 Convertion guid.txc: Guide for exporting the python notebook as a HTML file hidding the code in it. 
 Examn_analysis.html: Result of the analysis in html format ready to deliver. 
+
+
+Future devolopements: 
+I'll develop a Comparative analysis of two examns so we can se the evolution of the students in the course.
