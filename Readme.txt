@@ -1,4 +1,4 @@
-Project: Class examn analysis
+Project: Class scores visual analysis
 Author: Juan Diego Zapata Diaz
 Contact: jd.zapatad@alum.up.edu.pe
 
